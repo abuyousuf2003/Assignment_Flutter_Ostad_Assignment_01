@@ -16,6 +16,7 @@ class Car extends Vehicles{
  void move()
  {
 print("The car is moving at ${_speed} km/h");
+print("");
  }
 }
 
